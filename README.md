@@ -56,7 +56,7 @@ Ensuring unique Book IDs dynamically
 Keeping logic simple yet scalable
 Creating a smooth user input experience via CLI
 
-##Improvements (Future Scope)
+## Improvements (Future Scope)
 
 Add persistent storage (file or database)
 Build a GUI version using JavaFX
